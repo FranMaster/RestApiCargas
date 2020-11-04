@@ -1,6 +1,7 @@
 const express = require('express')
 const Morgan = require('morgan')
 const path = require('path');
+const exphbs=require('express-handlebars')
 //Inicializacion
 const app = express()
 
