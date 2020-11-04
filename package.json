@@ -1,9 +1,10 @@
 {
-  "name": "RestApiCargas",
+  "name": "restapicargas",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
